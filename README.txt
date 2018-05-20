@@ -1,4 +1,8 @@
-******Implemented in September 2016 originally in Python 2.7******
+******Implemented in September 2016 originally in Python 2.7, now in Python 3******
+
+UPDATE : April 2018
+Implemented GPU accelerated version of the code, complete with validation graphs for
+early stopping
 
 Programming of Fully Connected Neural Network from scratch using Python 3.
 Only library used is numpy for matrix multiplication.
